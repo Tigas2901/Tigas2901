@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem vindos ao meu perfil ❤️
 
-<!--
-**Tigas2901/Tigas2901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Tiago(Tigas) 
 
-Here are some ideas to get you started:
+- Estou fazendo o [Alura](https.
+- Aprendendo as linguagens 💻
+- irei compartilhar meus projetos por aqui
+ 
+## Pode falar comido Através do instagram  📧
+@_tiago_cost
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ![](https://media1.tenor.com/m/ISCbeJiZt3cAAAAC/bellingham-real-madrid.gif)
+ 
